@@ -1,4 +1,4 @@
-package android.example.com.hellotoast;
+package android.example.com.hellorelative;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
